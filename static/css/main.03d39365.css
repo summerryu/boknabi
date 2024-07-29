@@ -218,7 +218,7 @@ code {
 #Main_container .center .conts3 .conts3_center {
     background-attachment: fixed;
     background-size: cover;
-    background-image: url(/boknabi/images/top_slide2.jpg) no-repeat;
+    background: url(/boknabi/images/top_slide2.jpg) no-repeat;
     height: 600px;
     position: relative;
     width: 100%
